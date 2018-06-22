@@ -1510,6 +1510,7 @@ Server owner: __${guild.owner}__**`)
 
 client.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
+
   return channel.send(**
 :kissing::heart::eyes: حيااكْ الله  فى سيرفرنا 
 ╔╦╦╦═╦╗╔═╦═╦══╦═╗
@@ -1538,30 +1539,9 @@ STAR V :  25 Invites
 MODERATOR RANK
                  +
 حساب ماينكرافت اصلي شغال بكل السيرفرات
-**) 
-}).catch(console.error)
-})
-
-client.on("guildMemberAdd", member => {
-  member.createDM().then(function (channel) {
-  return channel.send(**
-:kissing::heart::eyes: حيااكْ الله  فى سيرفرنا 
-╔╦╦╦═╦╗╔═╦═╦══╦═╗
-║║║║╩╣╚╣═╣║║║║║╩╣
-╚══╩═╩═╩═╩═╩╩╩╩═╝ 
-‏نقدم لك دعوة لسموك الراقيَ .
-‏لنحظى بجمال حضورك وتواجدك
-•بتنـورونـا الجميع :wink:
-•اي مشكله توآجهك ولا يهمك. عندك الاداره تفضل ونحل مشكلتك مع آي شخص بالسيرفر.:telephone_receiver:
-•عندك فكره موضوع تفضل شآركنا فيه:jack_o_lantern::gift:
-•واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
-شرفنا يا عسل:wink: :kissing_heart:
-نحن نسوي فيه فعاليات و قيف اويات اول ما نوصل 1000 حتكون في قيف اوي على حساب ماين كرافت شغال ب كل السيرفرات
-https: https://discord.gg/XXrpPBv
-joined info-selfie
-! Selfie.   
-https:
-الدعووة خاصة لك ي قلبي ... [ ${member}  ]
+Link :
+		      
+https://discord.gg/XXrpPBv
 **) 
 }).catch(console.error)
 })
