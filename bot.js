@@ -1634,4 +1634,4 @@ client.on('message', function(msg) {
 
 
 
-client.login('NDUyMjA4NzYwNTUxNzY4MDY1.DglBNw.RWR_lM6oWywhO7mhUJ_N8-hhEtc');
+client.login(process.env.BOT_TOKEN);
