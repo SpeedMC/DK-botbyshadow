@@ -1508,47 +1508,6 @@ Server owner: __${guild.owner}__**`)
 });
 
 
-client.on("guildMemberAdd", member => {
-  member.createDM().then(function (channel) {
-
-  return channel.send(**
-:kissing::heart::eyes: حيااكْ الله  فى سيرفرنا 
-╔╦╦╦═╦╗╔═╦═╦══╦═╗
-║║║║╩╣╚╣═╣║║║║║╩╣
-╚══╩═╩═╩═╩═╩╩╩╩═╝ 
-‏نقدم لك دعوة لسموك الراقيَ .
-‏لنحظى بجمال حضورك وتواجدك
-•بتنـورونـا الجميع :wink:
-•اي مشكله توآجهك ولا يهمك. عندك الاداره تفضل ونحل مشكلتك مع آي شخص بالسيرفر.:telephone_receiver:
-•عندك فكره موضوع تفضل شآركنا فيه:jack_o_lantern::gift:
-•واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
-شرفنا يا عسل:wink: :kissing_heart:
-
-الرتب
-STAR I : 5 Invites
-STAR II :  10 Invites
-STAR III :  15 Invites
-STAR IV :  20 Invites
-STAR V :  25 Invites
-
-رتبة خاصة ورائعة وعرض مميز لاول خمس اشخاص
-
-
-لازم تجيب 30 شخص للسيرفر لحتى تتحصل على ما يلي
-
-MODERATOR RANK
-                 +
-حساب ماينكرافت اصلي شغال بكل السيرفرات
-Link :
-		      
-https://discord.gg/XXrpPBv
-**) 
-}).catch(console.error)
-})
-
-
-
-
 
 
 
