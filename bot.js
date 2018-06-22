@@ -235,13 +235,13 @@ let welcomer = member.guild.channels.find("name","welcome");
       var Canvas = require('canvas')
       var jimp = require('jimp')
 
-      const w = ['./img/w1.png',
-      './img/w2.png',
-      './img/w3.png',
-      './img/w4.png',
-      './img/w5.png',
-      './img/w7.png',
-      './img/w8.png'];
+      const w = ['./w1.png',
+      './w2.png',
+      './w3.png',
+      './w4.png',
+      './w5.png',
+      './w7.png',
+      './w8.png'];
 
               let Image = Canvas.Image,
                   canvas = new Canvas(401, 202),
@@ -1315,7 +1315,7 @@ client.on('message', message => {
             var Canvas = module.require('canvas');
             var jimp = module.require('jimp');
     
-     const w = ['./img/ID1.png','./img/ID3.png','./img/ID4.png','./img/ID5.png'];
+     const w = ['./ID1.png','./ID3.png','./ID4.png','./ID5.png'];
     
              let Image = Canvas.Image,
                  canvas = new Canvas(802, 404),
